@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: Mynth
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -46,13 +46,13 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
-  authorimage: ../assets/images/global/author.webp
+  author: Mynth
+  authorimage: ../assets/images/global/mynth-logo.svg
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
-  disable_theme_toggle: false
-  disable_stay_uptodate: false
+  moto: "Connecting Cardano"
+  description: "Building highways to other networks"
+  disable_theme_toggle: true
+  disable_stay_uptodate: true
 
   p1:
     heading: "Our mission"
